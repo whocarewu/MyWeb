@@ -1,0 +1,32 @@
+{
+  "name": "petsystemweb",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@iconify/json": "^2.2.212",
+    "axios": "^1.6.7",
+    "element-plus": "^2.5.6",
+    "mavon-editor": "3.0.1",
+    "moment": "^2.30.1",
+    "pinia": "^2.1.7",
+    "pinia-persistedstate-plugin": "^0.1.0",
+    "qrcode": "^1.5.3",
+    "qrcode.vue": "^3.4.1",
+    "vue": "^3.4.15",
+    "vue-markdown": "^2.2.4",
+    "vue-qrcode": "^2.2.2",
+    "vue-router": "4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.3",
+    "sass": "^1.71.0",
+    "unocss": "^0.60.3",
+    "vite": "^5.0.11"
+  }
+}
